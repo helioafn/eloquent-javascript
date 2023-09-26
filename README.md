@@ -1,8 +1,11 @@
+
 # Eloquent JavaScript
-<p>Repositório contendo as resoluções de exercícios e projetos do Livro *Eloquent JavaScript* 3rd Edition. De Marijin Haverbeke </p>
+Repositório contendo as resoluções de exercícios e projetos do Livro *Eloquent JavaScript* 3rd Edition, de Marijin Haverbeke.
+
 ### Progresso do livro
+
 - Exercícios capítulo 2 
-	- [x] Looping a triangle
-	- [x] FizzBuzz
-	- [x] Chessboard
+	- Looping a triangle [X]
+	- FizzBuzz [X]
+	- Chessboard [X]
 
