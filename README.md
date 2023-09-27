@@ -5,7 +5,7 @@ Repositório contendo as resoluções de exercícios e projetos do Livro *Eloque
 ### Progresso do livro
 
 - Exercícios capítulo 2 
-	- Looping a triangle [X]
-	- FizzBuzz [X]
-	- Chessboard [X]
+	- [x] Looping a triangle
+	- [x] FizzBuzz 
+	- [x] Chessboard 
 
