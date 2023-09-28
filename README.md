@@ -9,3 +9,7 @@ Repositório contendo as resoluções de exercícios e projetos do Livro *Eloque
 	- [x] FizzBuzz 
 	- [x] Chessboard 
 
+- Exercicios capítulo 3
+	- [ ] Minimum
+	- [ ] Recursion
+	- [ ] Bean counting
